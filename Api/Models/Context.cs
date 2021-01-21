@@ -28,5 +28,6 @@ namespace Api.Models
             modelBuilder.SetDecimalPrecision();
             base.OnModelCreating(modelBuilder);
         }
+        
     }
 }
